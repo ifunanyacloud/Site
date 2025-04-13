@@ -1,0 +1,11 @@
+P@DESKTOP-EBJ46GK MINGW64 ~/Downloads/testing (master)
+$ git init
+Reinitialized existing Git repository in C:/Users/HP/Downloads/testing/.git/
+
+HP@DESKTOP-EBJ46GK MINGW64 ~/Downloads/testing (master)
+$ ls
+
+HP@DESKTOP-EBJ46GK MINGW64 ~/Downloads/testing (master)
+$ code .
+
+
